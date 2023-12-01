@@ -1,0 +1,54 @@
+nav {
+  background-color: #b21f16;
+}
+
+h1 {
+  font-family: "Grandstander", cursive;
+}
+
+h2 h3 h4 h5,
+h6,
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+.card-text-auxiliar {
+  font-size: 13px;
+}
+
+.street {
+  display: flex;
+  gap: 8px;
+}
+.prices {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+form {
+    background-color: #b21f16;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+
+  button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .mb-3
+  {
+    width:70%;
+  }
+
+  .final
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

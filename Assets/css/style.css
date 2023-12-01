@@ -1,0 +1,65 @@
+h1
+{
+    font-size: 3em;
+    }
+
+
+.navbar-brand
+{
+    color: #543fff !important
+}
+.nav-link
+{
+    color: #543fff; 
+}
+
+.btn {
+    background-color: #EB07AA;
+}
+
+.navbar-toggler{
+    
+    border-color: #543fff;
+
+}
+.row
+{
+    display: flex;
+    align-items: center;
+
+}
+
+.main_photo
+{
+    width: 100%;
+}
+
+.btn
+{
+    border-radius: 10%;
+}
+
+.second_tittle
+{
+    margin-top: 5rem;
+    margin-bottom: 3rem; 
+}
+
+book{
+     display: flex;
+   justify-content: space-around;
+}
+
+.education
+{
+    margin-top: 2rem;
+    margin-bottom: 5rem; 
+}
+.footer
+{
+display:flex;
+align-items: middle;
+    background-color: #543fff;
+    padding-top: 3rem;
+    padding-top: 3rem;
+}
